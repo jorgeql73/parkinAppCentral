@@ -10,7 +10,7 @@ Este repositorio central organiza la documentación y las estrategias de desarro
 - Información sobre los microservicios.
 
 ## Microservicios
-1. [User Service](./microservices/user-service.md)
+1. [Customer Service](https://github.com/jorgeql73/CustomerService/blob/master/customer_service.md)
 2. [Parking Service](./microservices/parking-service.md)
 3. [Billing Service](./microservices/billing-service.md)
 4. [Notification Service](./microservices/notification-service.md)
@@ -28,7 +28,7 @@ Ejemplo del archivo microservices/user-service.md:
 Gestiona usuarios, incluyendo autenticación y roles.
 
 ## Repositorio
-[Repositorio del User Service](https://github.com/tu-usuario/user-service)
+[Repositorio del User Service](https://github.com/jorgeql73/CustomerService)
 
 ## Endpoints
 - `POST /users`: Crear un usuario.
